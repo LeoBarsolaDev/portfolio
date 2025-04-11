@@ -29,6 +29,6 @@ If you want to run this portfolio locally:
 
 ```bash
 git clone https://github.com/LeoBarsolaDev/portfolio.git
-cd my-portfolio
+cd portfolio
 npm install
 npm run dev

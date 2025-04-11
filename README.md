@@ -19,8 +19,7 @@ Podés verlo en línea acá 👉 [leonardobarsola.dev](https://leonardobarsola.d
 - **React**
 - **Vite**
 - **Tailwind CSS**
-- **Framer Motion** (si usaste)
-- **EmailJS** (si tenés formulario de contacto funcional)
+- **Formspree**
 
 ---
 

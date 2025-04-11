@@ -8,7 +8,7 @@ Podés verlo en línea [acá](https://leobarsoladev.github.io/portfolio/)
 ## ✨ Características
 
 - Diseño responsive y minimalista
-- Animaciones suaves con Tailwind y Framer Motion (si aplica)
+- Animaciones suaves con Tailwind
 - Sección de proyectos, habilidades, educación y contacto
 - Completamente desarrollado con [React](https://reactjs.org/) + [Vite](https://vitejs.dev/) + [Tailwind CSS](https://tailwindcss.com/)
 

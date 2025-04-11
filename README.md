@@ -1,7 +1,7 @@
 # 🌐 Mi Portfolio – Leonardo Barsola
 
 Este repositorio contiene el código fuente de mi portfolio personal como desarrollador web y desarrollador de videojuegos.  
-Podés verlo en línea acá 👉 [leonardobarsola.dev](https://leonardobarsola.dev)
+Podés verlo en línea [acá](https://leobarsoladev.github.io/portfolio/)
 
 ---
 

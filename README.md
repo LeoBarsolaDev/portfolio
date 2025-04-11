@@ -1,34 +1,34 @@
-# 🌐 Mi Portfolio – Leonardo Barsola
+# 🌐 My Portfolio – Leonardo Barsola
 
-Este repositorio contiene el código fuente de mi portfolio personal como desarrollador web y desarrollador de videojuegos.  
-Podés verlo en línea [acá](https://leobarsoladev.github.io/portfolio/)
-
----
-
-## ✨ Características
-
-- Diseño responsive y minimalista
-- Animaciones suaves con Tailwind
-- Sección de proyectos, habilidades, educación y contacto
-- Completamente desarrollado con [React](https://reactjs.org/) + [Vite](https://vitejs.dev/) + [Tailwind CSS](https://tailwindcss.com/)
+This repository contains the source code of my personal portfolio as a web developer and game developer.  
+You can view it live [here](https://leobarsoladev.github.io/portfolio/)
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## ✨ Features
 
-- **React**
-- **Vite**
-- **Tailwind CSS**
+- Responsive and minimalist design  
+- Smooth animations with Tailwind  
+- Project, skills, education, and contact sections  
+- Fully developed with [React](https://reactjs.org/), [Vite](https://vitejs.dev/), and [Tailwind CSS](https://tailwindcss.com/)
+
+---
+
+## 🛠️ Technologies Used
+
+- **React**  
+- **Vite**  
+- **Tailwind CSS**  
 - **Formspree**
 
 ---
 
-## 🧑‍💻 Instalación local
+## 🧑‍💻 Local Setup
 
-Si querés probar este portfolio en tu máquina local:
+If you want to run this portfolio locally:
 
 ```bash
-git clone https://github.com/tuusuario/mi-portfolio.git
-cd mi-portfolio
+git clone https://github.com/yourusername/my-portfolio.git
+cd my-portfolio
 npm install
 npm run dev

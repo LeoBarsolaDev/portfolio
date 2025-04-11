@@ -28,7 +28,7 @@ You can view it live [here](https://leobarsoladev.github.io/portfolio/)
 If you want to run this portfolio locally:
 
 ```bash
-git clone https://github.com/yourusername/my-portfolio.git
+git clone https://github.com/LeoBarsolaDev/portfolio.git
 cd my-portfolio
 npm install
 npm run dev
